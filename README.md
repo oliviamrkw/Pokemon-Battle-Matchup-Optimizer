@@ -1,5 +1,5 @@
 # Pokemon-Battle-Matchup-Optimizer
-Helps create optimize Pokemon Battles! Made for my CSC111 class at UofT.
+An interactive application that helps users optimize their Pokémon teams for any given opposing team through type and stat analysis. 
 
 To run, extract the folder and run main.py!
 
